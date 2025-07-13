@@ -1,0 +1,8 @@
+docx
+# requirements.txt
+docx
+jinja2
+weasyprint
+PyMuPDF
+requests
+```
